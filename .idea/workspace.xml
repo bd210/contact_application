@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b37de44c-1457-47b2-8109-4ea99786b91b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Observer/obs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Users/verification.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/observer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/DB.php" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/DB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Images/Img.php" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Images/Img.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/ContactController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ContactController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/FrontendController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/FrontendController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/MessageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/MessageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Includes/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/Includes/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Country.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Country.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Favorite.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Favorite.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Message.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Users/create_new_password.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Users/create_new_password.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Users/reset-password.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Users/reset-password.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application .sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tOCtP2Dg0KQoEL7Ti37vfHZgR6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../news" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\application\Classes\Validation" />
+      <recent name="C:\xampp\htdocs\application\Classes\Images" />
+      <recent name="C:\xampp\htdocs\application\Classes\UserValidation" />
+      <recent name="C:\xampp\htdocs\application\Includes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b37de44c-1457-47b2-8109-4ea99786b91b" name="Default Changelist" comment="" />
+      <created>1622630962854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622630962854</updated>
+      <workItem from="1622630963956" duration="12586000" />
+      <workItem from="1622703642146" duration="22833000" />
+      <workItem from="1622735132994" duration="8318000" />
+      <workItem from="1622786441065" duration="26610000" />
+      <workItem from="1622883579889" duration="13791000" />
+      <workItem from="1623001931575" duration="7998000" />
+      <workItem from="1623045272820" duration="36441000" />
+      <workItem from="1623131985325" duration="32356000" />
+      <workItem from="1623217937698" duration="27825000" />
+      <workItem from="1623267352594" duration="5164000" />
+      <workItem from="1623304502187" duration="15162000" />
+      <workItem from="1623326690124" duration="2470000" />
+      <workItem from="1623331816323" duration="21000" />
+      <workItem from="1623332303203" duration="2852000" />
+      <workItem from="1623338936363" duration="537000" />
+      <workItem from="1623353123821" duration="2962000" />
+      <workItem from="1623390434258" duration="9120000" />
+      <workItem from="1623399984486" duration="44000" />
+      <workItem from="1623400039520" duration="932000" />
+      <workItem from="1623407280336" duration="6523000" />
+      <workItem from="1623490168073" duration="4315000" />
+      <workItem from="1623494904561" duration="375000" />
+      <workItem from="1623496399511" duration="540000" />
+      <workItem from="1623572491524" duration="5305000" />
+      <workItem from="1623645942811" duration="2965000" />
+      <workItem from="1623652600472" duration="14645000" />
+      <workItem from="1623733065555" duration="6356000" />
+      <workItem from="1623741363219" duration="17106000" />
+      <workItem from="1623818924755" duration="25859000" />
+      <workItem from="1623905834185" duration="21984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623354388751">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1623354388751" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1623929348874">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1623929348874" />
+    <state x="487" y="87" key="NewPhpClassDialog" timestamp="1623319812883">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="487" y="87" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1623319812883" />
+    <state x="515" y="287" key="NewPhpFileDialog" timestamp="1623907717455">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="515" y="287" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1623907717455" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1623328009925">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1623328009925" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1623073484729">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1623073484729" />
+  </component>
+</project>
